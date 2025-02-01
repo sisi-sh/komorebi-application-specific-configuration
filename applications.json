@@ -20,6 +20,16 @@
         "kind": "Class",
         "id": "Vst3PlugWindow",
         "matching_strategy": "Legacy"
+      },
+      {
+        "kind": "Title",
+        "id": "Export Audio...",
+        "matching_strategy": "Equals"
+      },
+      {
+        "kind": "Title",
+        "id": "Export Audio/Video",
+        "matching_strategy": "Equals"
       }
     ]
   },
